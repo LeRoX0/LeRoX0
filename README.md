@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<a href="https://github.com/LeRoX0?tab=followers">
+  <img src="https://img.shields.io/github/followers/LeRoX0?style=for-the-badge&logo=github">
+</a>
+
 <span>
 	<img src="https://img.shields.io/badge/-Node.js-43853?logo=node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
